@@ -24,3 +24,19 @@ RodSculpture:
   Output the direction of the tip of a rod following the given instructions.
   For points length-i to 1, the rod can be bent in these directions: +y, -y, +z, -z.
   The rod begins pointed toward the direction +x.
+
+BaseConversion:
+  Check if a number is valid for a given base, and if so, convert it to another given base 2 <= bases 1, 2 <= 16 and output this number.
+  
+ChessBracket:
+  Output the total number of walkover games in a chess tournament given the expected number of players and the list of missing players.
+  
+EndianReverse:
+  Reverse the endian for a given integer in two's complement.
+ 
+EvenColumns:
+  Output the minimum number of moves to level out a given number of columns of given heights.
+  
+NegativeBase:
+  Output the "negative base" conversion of an integer n.
+  A negative base conversion is when 
