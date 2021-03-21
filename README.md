@@ -1,12 +1,12 @@
 # AlgorithmicProblemSolving
 Solutions from NYU CSCI-UA 480 past problem sets.
 
-Problem descriptions:
+## Problem descriptions:
 
-Add:
+### Add:
   Output the sum of two input numbers -1,000,000 <= x, y <= 1,000,000.
 
-Add2:
+### Add2:
   Output the sum of two input numbers withough size boundaries.
   
 Cars:
