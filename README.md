@@ -38,5 +38,7 @@ EvenColumns:
   Output the minimum number of moves to level out a given number of columns of given heights.
   
 NegativeBase:
-  Output the "negative base" conversion of an integer n.
-  A negative base conversion is when 
+  Output the "negative base 2" conversion of a base 10 integer n.
+  This is computed such that n = b_0 + b_1 * (-2) + b+2 * (-2)^2 + b_3 * (-2)^3 + ...
+  
+
