@@ -39,6 +39,6 @@ Solutions from NYU CSCI-UA 480 past problem sets.
   
 ### NegativeBase:
   Output the "negative base 2" conversion of a base 10 integer n.
-  This is computed such that n = b_0 + b_1 * (-2) + b+2 * (-2)^2 + b_3 * (-2)^3 + ...
+  This is computed such that `n = b_0 + b_1 * (-2) + b+2 * (-2)^2 + b_3 * (-2)^3 + ...`
   
 
